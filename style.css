@@ -1,0 +1,55 @@
+body {
+    color: white;
+    background: black;
+    margin: 10px;
+
+}
+
+header {
+    border-bottom: solid 2px rgb(65, 68, 233);
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(65,68,233);
+}
+
+img {
+    height: 200px;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+element.style {
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+}
+
+.categoria h2 {
+    color: rgb(65,68,233);
+}
+
+
+
+
+
+
+
+
